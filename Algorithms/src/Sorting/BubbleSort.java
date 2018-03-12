@@ -19,7 +19,7 @@ public class BubbleSort {
 				}
 			}
 		}
-		SortingTest.data = list;
+//		SortingTest.data = list;
 	}
 
 

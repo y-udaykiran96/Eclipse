@@ -21,7 +21,7 @@ public class SelectionSort {
 			list[i] = list[k];
 			list[k] = tmp;
 		}
-		SortingTest.data = list;
+//		SortingTest.data = list;
 	}
 
 	public String[] getList() {
